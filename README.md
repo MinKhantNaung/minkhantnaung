@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Min Khant Naung
 
-<!--
-**MinKhantNaung/minkhantnaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack web developer focused on building dynamic web applications using modern PHP and JavaScript tools.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** PHP, Laravel, Livewire
+- **Frontend:** Javascript, Vue.js, Tailwind CSS, Bootstrap
+- **Other:** REST APIs, MySQL, Git, Reverb, Laravel Echo, WebSockets
+
+## 🌐 My Website
+
+- 🔗 [animefeverzone.com](https://animefeverzone.com) – My personal anime blog & full-stack project
+- 💬 [chat-demo.animefeverzone.com](https://chat-demo.animefeverzone.com) – Real-time chat demo app built with Laravel, Vue, Echo & Reverb
+
+
+
