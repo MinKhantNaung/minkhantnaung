@@ -5,7 +5,7 @@ I'm a passionate full-stack web developer focused on building dynamic web applic
 ## 🛠️ Tech Stack
 
 - **Backend:** PHP, Laravel, Livewire
-- **Frontend:** Javascript, Vue.js, Tailwind CSS, Bootstrap
+- **Frontend:** Vue.js, TypeScript, JavaScript, JQuery, Tailwind CSS, Bootstrap
 - **Other:** REST APIs, MySQL, Git, Reverb, Laravel Echo, WebSockets
 
 ## 🌐 My Website
