@@ -6,7 +6,7 @@ I'm a passionate full-stack web developer focused on building dynamic web applic
 - **Backend:** PHP, Laravel, Livewire
 - **Frontend:** Vue.js, TypeScript, JavaScript, jQuery, Tailwind CSS, Bootstrap
 - **Database:** MySQL, PostgreSQL, SQL Server
-- **Cloud / DevOps:** AWS (VPC, EC2, RDS, S3, IAM), Docker, CI/CD
+- **Cloud / DevOps:** AWS (VPC, EC2, RDS, S3, IAM, SQS), Docker, CI/CD
 - **Other:** REST APIs, Git, Reverb, Laravel Echo, WebSockets
 
 ## 🌐 My Website
