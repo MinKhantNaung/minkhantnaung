@@ -3,7 +3,7 @@
 I'm a passionate full-stack web developer focused on building dynamic web applications using modern PHP and JavaScript tools.
 
 ## 🛠️ Tech Stack
-- **Backend:** PHP, Laravel, Livewire
+- **Backend:** PHP, Laravel
 - **Frontend:** Vue.js, TypeScript, JavaScript, jQuery, Tailwind CSS, Bootstrap
 - **Database:** MySQL, PostgreSQL, SQL Server
 - **Cloud / DevOps:** AWS (VPC, EC2, RDS, S3, IAM, SQS), Docker, CI/CD
